@@ -189,6 +189,19 @@ p {
 }
 
 
+@media (max-width:1040px){
+    
+    .tarjeta {
+        width: 60%;
+        margin: 150px 100px;
+    }
+
+    .tarjeta-servicios {
+        width: 40%;
+    }
+
+}
+
 
 /*Se definen los estilos para el apartado login*/
 /*Alinea el formulario al centro de la pagina*/
